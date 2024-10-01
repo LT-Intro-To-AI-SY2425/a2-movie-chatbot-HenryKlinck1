@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+My formating was off a few times and it caused issues in the running of the code, since Im used to coding in java and havent fully gotten used to needing to format correctly it has been dificult
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+the match function helps to find info in a movie data base by looking for matching keywords in lists
 
